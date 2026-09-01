@@ -1,6 +1,6 @@
 ---
 title: '"Monsters" as Forces of Nature'
-description: A placeholder post about technology and opinion.
+description: A rambling about making monsters more threatening.
 pubDate: 2026-08-31
 tags: 
 - 'His Majesty the Worm'
