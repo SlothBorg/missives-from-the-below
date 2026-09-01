@@ -3,10 +3,10 @@ import sitemap from "@astrojs/sitemap";
 import { defineConfig } from "astro/config";
 import { SITE_URL } from "./src/consts";
 
-// https://astro.build/config
+const isProd = process.env.DEPLOY_ENV === "dev";
+
 export default defineConfig({
-  site: SITE_URL,
-  base: '/',
+  site: isProd ? SITE_URL : "http://localhost:4321",
   markdown: { syntaxHighlight: false },
   integrations: [mdx(), sitemap()],
 });
