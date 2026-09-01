@@ -15,9 +15,9 @@ export interface DateFormat {
 }
 
 // Site-wide configuration.
-export const SITE_TITLE = "Astro ʕ•ᴥ•ʔ Bear Blog";
+export const SITE_TITLE = "Missives from The Below";
 export const SITE_DESCRIPTION = "A small, plain blog built with Astro.";
-export const SITE_URL = "https://astro-bearblog.harleyjwilson.workers.dev/";
+export const SITE_URL = "https://slothborg.github.io";
 export const SITE_LANG = "en";
 
 export const DATE_FORMAT: DateFormat = {

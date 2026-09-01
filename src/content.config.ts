@@ -11,10 +11,14 @@ const blog = defineCollection({
     updatedDate: z.coerce.date().optional(),
     tags: z
       .array(
-        z.string().regex(
-          /^[a-z]+$/,
-          "Tags must be a single lowercase word containing only letters.",
-        ),
+        z
+          .string()
+          .min(1)
+          .max(64)
+          .refine(
+            (t) => /[\p{L}\p{N}]/u.test(t),
+            "Tags must contain at least one letter or number.",
+          ),
       )
       .default([]),
     draft: z.boolean().default(false),
