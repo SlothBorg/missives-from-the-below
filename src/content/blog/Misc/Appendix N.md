@@ -6,7 +6,7 @@ tags:
 - 'misc'
 ---
 
-Unlikely you, dear reader, have stumbled upon this blog without being familiar with the concept, but in case you aren't. [Appendix N](https://en.wikipedia.org/wiki/Appendix_N) organically appeared in the Advanced Dungeons & Dragons Dungeon Master's Guide, and was a list of books and authors that influenced the creators of Dungeons & Dragons. 
+It is unlikely that you, dear reader, have stumbled upon this blog without being familiar with the concept, but in case you aren't. [Appendix N](https://en.wikipedia.org/wiki/Appendix_N) organically appeared in the Advanced Dungeons & Dragons Dungeon Master's Guide, and was a list of books and authors that influenced the creators of Dungeons & Dragons. 
 
 Some day I hope to write at least a paragraph about each item explaining how it's influenced me and my games, today is very much not that day.
 
