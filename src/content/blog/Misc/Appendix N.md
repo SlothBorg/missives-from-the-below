@@ -6,7 +6,7 @@ tags:
 - 'misc'
 ---
 
-It is unlikely that you, dear reader, have stumbled upon this blog without being familiar with the concept, but in case you aren't. [Appendix N](https://en.wikipedia.org/wiki/Appendix_N) organically appeared in the Advanced Dungeons & Dragons Dungeon Master's Guide, and was a list of books and authors that influenced the creators of Dungeons & Dragons. 
+For those who have stumbled upon this blog without being familiar with the concept. [Appendix N](https://en.wikipedia.org/wiki/Appendix_N) organically appeared in the Advanced Dungeons & Dragons Dungeon Master's Guide, and was a list of books and authors that influenced the creators of Dungeons & Dragons. 
 
 Some day I hope to write at least a paragraph about each item explaining how it's influenced me and my games, today is very much not that day.
 
@@ -37,16 +37,20 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 
 ## Video Games
 
-* Darkest Dungeon
-* Morrowind
+* [The Secret of Monkey Island](https://en.wikipedia.org/wiki/The_Secret_of_Monkey_Island)
+* [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
+* [Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
 * Diablo
-* Baldur's Gate (1 & 2)
-* Dungeons of Dreadrock
+* The original Baldur's Gate games:
+  * [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
+    * [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
+  * [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+    * [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
+* [Dungeons of Dreadrock](https://en.wikipedia.org/wiki/Dungeons_of_Dreadrock)
 * Red Faction: Guerrilla
-* Thief
+* [Thief: The Dark Project](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project) && [Thief II: The Metal Age](https://en.wikipedia.org/wiki/Thief_II) I was never good at them when I first played them.
 * Planescape: Torment
-* Dark Souls / Elden Ring
-* Caves of Qud
+* [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) & [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), still not good at these games, possibly worse now. However, I love the concept and ideas, and wish I were better at them, to play and enjoy the worlds and challenge of them.
 
 ## Roleplaying Games
 
