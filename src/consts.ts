@@ -35,6 +35,7 @@ export const NAV_ITEMS: LinkItem[] = [
   { label: "Home", href: "/" },
   { label: "Blog", href: "/blog/" },
   { label: "Tags", href: "/tags/" },
+  { label: "Blogroll", href: "/blogroll/" },
 ];
 export const FOOTER_ITEMS: FooterItem[] = [
   { label: "Made with" },
