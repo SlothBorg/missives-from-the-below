@@ -1,7 +1,7 @@
 ---
 title: 'Appendix N'
 description: A non-exhaustive list of media that has influenced me.
-pubDate: 2026-08-31
+pubDate: 2026-09-01
 tags: 
 - 'misc'
 ---
@@ -51,6 +51,7 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [Thief: The Dark Project](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project) && [Thief II: The Metal Age](https://en.wikipedia.org/wiki/Thief_II) I was never good at them when I first played them.
 * Planescape: Torment
 * [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) & [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), still not good at these games, possibly worse now. However, I love the concept and ideas, and wish I were better at them, to play and enjoy the worlds and challenge of them.
+* [Signs of the Sojourner](https://en.wikipedia.org/wiki/Signs_of_the_Sojourner), the way it handles conversations and social interactions is so compelling! I keep thinking about how to use it in an RPG.
 
 ## Roleplaying Games
 

@@ -2,12 +2,12 @@
 import { getCollection } from "astro:content";
 import PostList from "../../components/PostList.astro";
 import Base from "../../layouts/Base.astro";
-import { isPublished } from "../../lib/content";
+import { isPublished, postDate } from "../../lib/content";
 
 export async function getStaticPaths() {
   const posts = (await getCollection("blog"))
     .filter(isPublished)
-    .sort((b, a) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+    .sort((b, a) => postDate(a).valueOf() - postDate(b).valueOf());
   const tags = [...new Set(posts.flatMap((post) => post.data.tags))];
 
   return tags.map((tag) => ({

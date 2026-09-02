@@ -4,12 +4,12 @@ import { getCollection, render } from "astro:content";
 import { experimental_AstroContainer as AstroContainer } from "astro/container";
 import mdxRenderer from "@astrojs/mdx/server.js";
 import { SITE_DESCRIPTION, SITE_TITLE, SITE_URL } from "../consts";
-import { getDescription, getPostUrl, isPublished } from "../lib/content";
+import { getDescription, getPostUrl, isPublished, postDate } from "../lib/content";
 
 export const GET = (async (context) => {
   const posts = (await getCollection("blog"))
     .filter(isPublished)
-    .sort((b, a) => a.data.pubDate.valueOf() - b.data.pubDate.valueOf());
+    .sort((b, a) => postDate(a).valueOf() - postDate(b).valueOf());
 
   const site = context.site ?? SITE_URL;
   const container = await AstroContainer.create();
@@ -27,7 +27,7 @@ export const GET = (async (context) => {
         return {
           title: post.data.title,
           description: getDescription(post),
-          pubDate: post.data.pubDate,
+          pubDate: postDate(post),
           categories: post.data.tags,
           content: await container.renderToString(Content, {
             request: new Request(new URL(getPostUrl(post), site)),

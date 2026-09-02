@@ -1,7 +1,7 @@
 ---
 title: '"Monsters" as Forces of Nature'
 description: A rambling about making monsters more threatening.
-pubDate: 2026-08-31
+pubDate: 2026-09-01
 tags: 
 - 'His Majesty the Worm'
 - 'monster design'

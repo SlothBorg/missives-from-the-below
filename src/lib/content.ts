@@ -26,6 +26,10 @@ export function isPublished(post: CollectionEntry<"blog">): boolean {
   return !post.data.draft && post.data.pubDate <= new Date();
 }
 
+export function postDate(post: CollectionEntry<"blog">): Date {
+  return post.data.updatedDate ?? post.data.pubDate;
+}
+
 export function tagPath(tag: string): string {
   return `/tags/${encodeURIComponent(tag)}/`;
 }

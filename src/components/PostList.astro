@@ -1,7 +1,7 @@
 ---
 import type { CollectionEntry } from "astro:content";
 import FormattedDate from "./FormattedDate.astro";
-import { getPostUrl, tagPath } from "../lib/content";
+import { getPostUrl, postDate, tagPath } from "../lib/content";
 
 interface Props {
   posts: CollectionEntry<"blog">[];
@@ -19,7 +19,7 @@ const tags = [
     <ul class="blog-posts">
       {posts.map((post) => (
         <li>
-          <span><FormattedDate date={post.data.pubDate} /></span>
+          <span><FormattedDate date={postDate(post)} /></span>
           <a href={getPostUrl(post)}>{post.data.title}</a>
         </li>
       ))}

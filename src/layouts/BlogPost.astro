@@ -15,7 +15,7 @@ const { title, description, pubDate, updatedDate, tags } = Astro.props;
 
 <Base {title} {description} type="article" publishedTime={pubDate} modifiedTime={updatedDate}>
   <h1 class="title">{title}</h1>
-  <FormattedDate date={pubDate} />
+  <FormattedDate date={updatedDate ?? pubDate} />
   <slot />
   {tags.length > 0 && (
     <div class="tags">
