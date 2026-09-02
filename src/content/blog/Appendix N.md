@@ -2,6 +2,7 @@
 title: 'Appendix N'
 description: A non-exhaustive list of media that has influenced me.
 pubDate: 2026-09-01
+updatedDate: 2026-09-02
 tags: 
 - 'misc'
 ---
@@ -66,6 +67,11 @@ Just so many.
   * I played in a game ran by the creator at [ArcaneCon](https://www.arcaneswordpress.com/arcanecon) and had a blast.
 * Electric Bastionland
 * [Mausritter](https://mausritter.com/), damn that inventory system!
+* [Sigils in the Dark](https://kurtpotts.itch.io/sigils-in-the-dark)
+* [Tales from the Wild Blue Yonder](https://ladyblackbird.org/)
+  * Lady Blackbird
+  * Magister Lor
+  * Lord Scurlock
 
 ### Game Types:
 
@@ -78,6 +84,8 @@ Just so many.
 
 ### Settings
 
+* [Bluffside: City on the Edge](https://www.drivethrurpg.com/en/product/185036/bluffside-city-on-the-edge)
+  * It holds a special place in my heart, it was the first RPG book I bought with money I earned from a "real" job, vs birthday, holiday, or chore money. Purchased it from the Waldenbooks at the local mall, RIP.
 * Planescape
 * Dark Sun
 * Birthright
@@ -113,3 +121,13 @@ Just so many.
 * [Hex28](https://miscastterrain.itch.io/hex28-vol1)
 * [1490 Doom](https://buergames.com/pages/1490doom)
   * I played a demo of the game at [Under the Dice](https://underthedice.com/utdfest/) with my younger brother, he had the audacity to pull a ladder up on me! The nerve!
+
+## People
+
+* My Brothers
+  * I talk about them in discussing [The first RPG I played](../first-rpg)
+
+## Places
+
+* The woods and buildings around where I grew up.
+  * There were ruins of hundred year old foundations in the woods, old aqueduct that you could crawl into if you were brave enough, a few "secrete passages" really just crawlspaces, and a few semi-hidden doors. It was enough to get a child's mind wondering at the mysteries and adventure, plus the wooden swords and sticks didn't hurt of course!

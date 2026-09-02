@@ -7,21 +7,37 @@ import Base from "./Base.astro";
 type BlogPostData = CollectionEntry<"blog">["data"];
 
 interface Props extends BlogPostData {
-  description: string;
+    description: string;
 }
 
 const { title, description, pubDate, updatedDate, tags } = Astro.props;
 ---
 
-<Base {title} {description} type="article" publishedTime={pubDate} modifiedTime={updatedDate}>
-  <h1 class="title">{title}</h1>
-  <FormattedDate date={updatedDate ?? pubDate} />
-  <slot />
-  {tags.length > 0 && (
-    <div class="tags">
-      {tags.slice().sort().map((tag) => (
-        <a class="tag" href={tagPath(tag)} rel="nofollow">#{tag}</a>
-      ))}
-    </div>
-  )}
+<Base
+    {title}
+    {description}
+    type="article"
+    publishedTime={pubDate}
+    modifiedTime={updatedDate}
+>
+    <h1 class="title">{title}</h1>
+    <hr />
+    <FormattedDate date={updatedDate ?? pubDate} />
+    {
+        tags.length > 0 && (
+            <div class="tags">
+                {tags
+                    .slice()
+                    .sort()
+                    .map((tag) => (
+                        <a class="tag" href={tagPath(tag)} rel="nofollow">
+                            #{tag}
+                        </a>
+                    ))}
+            </div>
+        )
+    }
+    <hr />
+    <slot />
+    <hr />
 </Base>
