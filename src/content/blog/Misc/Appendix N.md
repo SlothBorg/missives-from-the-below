@@ -64,7 +64,7 @@ Just so many.
 * [Cairn](https://cairnrpg.com/)
   * I played in a game ran by the creator at [ArcaneCon](https://www.arcaneswordpress.com/arcanecon) and had a blast.
 * Electric Bastionland
-* Mausritter
+* [Mausritter](https://mausritter.com/), damn that inventory system!
 
 ### Game Types:
 
@@ -108,6 +108,7 @@ Just so many.
 * Mordheim
 * Frostgrave
 * [Sun Rot](https://www.sunrot.com/)
-  * I played a demo of the game at [](https://underthedice.com/utdfest/)
+  * I played a demo of the game at [Under the Dice](https://underthedice.com/utdfest/) with my younger brother.
 * [Hex28](https://miscastterrain.itch.io/hex28-vol1)
 * [1490 Doom](https://buergames.com/pages/1490doom)
+  * I played a demo of the game at [Under the Dice](https://underthedice.com/utdfest/) with my younger brother, he had the audacity to pull a ladder up on me! The nerve!
