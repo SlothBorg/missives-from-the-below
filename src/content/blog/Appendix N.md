@@ -2,7 +2,7 @@
 title: 'Appendix N'
 description: A non-exhaustive list of media that has influenced me.
 pubDate: 2026-09-01
-updatedDate: 2026-09-02
+updatedDate: 2026-09-04
 tags: 
 - 'misc'
 ---
