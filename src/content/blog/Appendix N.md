@@ -23,6 +23,7 @@ Some day I hope to write at least a paragraph about each item explaining how it'
   * Specifically [King Arthur and his knights by Sir James Knowles](https://archive.org/details/kingarthurhiskni00know) I was given a copy for my 5th birthday and my father read it to me multiple times.
 * [The Powder Mage Trilogy](https://en.wikipedia.org/wiki/The_Powder_Mage_trilogy)
 * [The Black Magician Trilogy](https://en.wikipedia.org/wiki/Trudi_Canavan#Kyralia_series) by Trudi Canavan
+* [His Dark Materials](https://en.wikipedia.org/wiki/His_Dark_Materials)
 
 ## Movies
 
@@ -30,6 +31,7 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [Cube](https://en.wikipedia.org/wiki/Cube_(1997_film))
 * [The Goonies](https://en.wikipedia.org/wiki/The_Goonies)
 * [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
+* [The Black Cauldron (film)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(film))
 
 ## TV Shows
 
