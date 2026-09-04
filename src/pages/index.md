@@ -18,3 +18,7 @@ Built using
 * Deployed using [GitHub Pages](https://docs.github.com/en/pages)
 
 View the [repo here](https://github.com/SlothBorg/missives-from-the-below)
+
+### ToDo
+
+[] Add a spoiler tag component
