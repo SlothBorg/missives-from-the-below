@@ -15,7 +15,9 @@ There is a digital edition available on [itch.io](https://duckandcrowpress.itch.
 
 I'll get it out of the way up front, I love this. It's weird, gross, lethal, and knows exactly what it is.
 
-If I had to find an issue, my biggest complaint would be that there are more than one billion bats! >! There is a cave chamber of one million bats, another of one billion bats, and then 8 bat clouds! < In fairness, "*The Cursed Cave of a Bit More Than One Billion Bats*" doesn't have the same gravitas, plus after a billion, what is another million and change? Especially when they are rushing you, squeaking, and biting? 
+If I had to find an issue, my biggest complaint would be that there are more than one billion bats! There is a cave chamber of one million bats, another of one billion bats, and then 8 bat clouds.
+
+In fairness, "*The Cursed Cave of a Bit More Than One Billion Bats*" doesn't have the same gravitas, plus after a billion, what is another million and change? Especially when they are rushing you, squeaking, and biting? 
 
 ### What Is It?
 
