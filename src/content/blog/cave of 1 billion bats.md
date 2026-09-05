@@ -75,4 +75,6 @@ When I run it, I'll ask each player what their character knows/believes about th
 
 ## Final Thoughts
 
-I like it a lot, nothing strikes me as lacking and there are plenty of enticing bits that could easily be built upon for a larger adventure. Plenty of neat mechanics that I will be incorporating to future games!
+I like it a lot, nothing strikes me as lacking and there are plenty of enticing bits that could easily be built upon for a larger adventure. 
+
+There are several neat mechanics, striking a balance of light for example, that I will be incorporating to future games!
