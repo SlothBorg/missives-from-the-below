@@ -18,7 +18,7 @@ I'll get it out of the way up front, I love this. It's weird, gross, lethal, and
 
 If I had to find an issue, my biggest complaint would be that there are more than one billion bats! There is a cave chamber of one million bats, another of one billion bats, and then 8 bat clouds.
 
-In fairness, "*The Cursed Cave of a Bit More Than One Billion Bats*" doesn't have the same gravitas, plus after a billion, what is another million and change? Especially when they are rushing you, squeaking, and biting? 
+In fairness, "*The Cursed Cave of a Bit More Than One Billion Bats*" doesn't have the same gravitas. After a billion, what is another million and change? Especially when they are rushing you, squeaking, and biting? 
 
 ### What Is It?
 
@@ -37,7 +37,7 @@ The fold out has both an isometric map of the cave system, which highlights the 
 
 #### The Adventure
 
-There is a cave full of bats, treasure, and a curse. Go in there, get treasure, and get out. If you want, try, and end the curse.
+There is a cave full of bats, treasure, and a curse. Go in there, get treasure, and get out. If you want, try and end the curse.
 
 It's simple and to the point, befitting the premise. Within that simplicity hides plenty of narrative; the small town contains NPCs with conflicting desires, 
 
