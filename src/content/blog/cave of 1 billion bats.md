@@ -2,6 +2,7 @@
 title: 'The Cursed Cave of One Billion Bats'
 description: Thoughts on The Cursed Cave of One Billion Bats - Bloodbath Dungeon 01
 pubDate: 2026-09-04
+updatedDate: 2026-09-05
 tags: 
 - 'review'
 - 'games'
@@ -48,4 +49,30 @@ It's easy to envision how this might work outside the confines of a tournament, 
 
 It's a system neutral OSR game, on the inside fold out flap of the cover is a helpful chat for converting the adventure for a variety of OSR game systems.
 
-<!--As a big fan of [His Majesty the Worm](https://www.hismajestytheworm.games/) I immediately see-->
+For example:
+
+> A character trained in climbing makes a Standard Climbing Check, failure is a fail (Standard Save to avoid).
+
+From the inside flap, there is this handy conversion chart. 
+
+| Check | TN | mod | d20 | Borg |
+| :-: | :-: | :-: | :-: | :-: |
+| Easy | 10 | +4 | Adv. | 8 |
+| Standard | 15 | -- | --- | 12 |
+| Difficult | 20 | -4 | Disadv. | 16 |
+
+Combining these two and it's pretty simple to convert the adventure on the fly, or so I hope having committed to running it later today using light-weight hack of [His Majesty the Worm](https://www.hismajestytheworm.games/). In the parlance of HMtW an easy check would have favor and difficult disfavor, "trained in climbing" would become a relevant motif. 
+
+#### Light
+
+Like many OSR games and adventures light is important, poor lighting leads to greater risk. Interestingly too much light will enrage the bats leading to greater danger so players much strike a careful balance. I am stealing this for my games going forward!
+
+#### The Curse
+
+The adventure states that each NPC has their own incorrect theory about the curse, but doesn't provide a table, or example. I'm torn on this, on the one hand it's understandable given the short nature of the adventure, and how the curse is more of a background element.
+
+When I run it, I'll ask each player what their character knows/believes about the curse, giving them plenty of conflicting information to "discuss" as they descend further and further into the cave. Under the Scoring section you double all points if you resolve the curse,
+
+## Final Thoughts
+
+I like it a lot, nothing strikes me as lacking and there are plenty of enticing bits that could easily be built upon for a larger adventure. Plenty of neat mechanics that I will be incorporating to future games!
