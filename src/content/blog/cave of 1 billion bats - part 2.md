@@ -1,8 +1,8 @@
 ---
-title: 'Running the Cursed Cave of One Billion Bats'
-description: Thoughts on running the Cursed Cave of One Billion Bats for a group of folks
-pubDate: 2026-09-07
-updatedDate: 2026-09-07
+title: 'Running, the Cursed Cave of One Billion Bats - Part 2'
+description: Running the Cursed Cave of One Billion Bats for a group of folks
+pubDate: 2026-09-08
+updatedDate: 2026-09-08
 draft: true
 tags: 
 - 'review'

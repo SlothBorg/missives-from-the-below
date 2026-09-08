@@ -1,5 +1,5 @@
 ---
-title: 'The Cursed Cave of One Billion Bats'
+title: 'The Cursed Cave of One Billion Bats - Part 1'
 description: Thoughts on The Cursed Cave of One Billion Bats - Bloodbath Dungeon 01
 pubDate: 2026-09-04
 updatedDate: 2026-09-05
