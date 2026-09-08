@@ -39,7 +39,7 @@ export const NAV_ITEMS: LinkItem[] = [
   { label: "Blogroll", href: "/blogroll/" },
 ];
 export const FOOTER_ITEMS: FooterItem[] = [
-  { label: "Made with" },
+  { label: "Made with coffee && " },
   {
     label: "Astro ʕ•ᴥ•ʔ Bear",
     href: "https://github.com/harleyjwilson/astro-bearblog",
