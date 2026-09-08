@@ -1,5 +1,5 @@
 import type { CollectionEntry } from "astro:content";
-import { SITE_DESCRIPTION } from "../consts";
+import { SITE_DESCRIPTION, IS_PROD } from "../consts";
 
 export function getPostUrl(post: CollectionEntry<"blog">): string {
   return `/blog/${post.id}/`;
@@ -23,7 +23,11 @@ export function excerpt(markdown = "", length = 157): string {
 }
 
 export function isPublished(post: CollectionEntry<"blog">): boolean {
-  return !post.data.draft && post.data.pubDate <= new Date();
+  if (IS_PROD) {
+    return !post.data.draft && post.data.pubDate <= new Date();
+  } else {
+    return post.data.pubDate <= new Date();
+  }
 }
 
 export function postDate(post: CollectionEntry<"blog">): Date {

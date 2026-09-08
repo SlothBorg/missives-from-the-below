@@ -4,32 +4,41 @@ import FormattedDate from "./FormattedDate.astro";
 import { getPostUrl, postDate, tagPath } from "../lib/content";
 
 interface Props {
-  posts: CollectionEntry<"blog">[];
-  showTags?: boolean;
+    posts: CollectionEntry<"blog">[];
+    showTags?: boolean;
 }
 
 const { posts, showTags = true } = Astro.props;
-const tags = [
-  ...new Set(posts.flatMap((post) => post.data.tags)),
-].sort((a, b) => a.localeCompare(b));
+const tags = [...new Set(posts.flatMap((post) => post.data.tags))].sort(
+    (a, b) => a.localeCompare(b),
+);
 ---
 
-{posts.length ? (
-  <>
-    <ul class="blog-posts">
-      {posts.map((post) => (
-        <li>
-          <span><FormattedDate date={postDate(post)} /></span>
-          <a href={getPostUrl(post)}>{post.data.title}</a>
-        </li>
-      ))}
-    </ul>
-    {showTags && tags.length > 0 && (
-      <div class="tags">
-        {tags.map((tag) => <a class="tag" href={tagPath(tag)} rel="nofollow">#{tag}</a>)}
-      </div>
-    )}
-  </>
-) : (
-  <p>No posts yet.</p>
-)}
+{
+    posts.length ? (
+        <>
+            <ul class="blog-posts">
+                {posts.map((post) => (
+                    <li>
+                        <span>
+                            <FormattedDate date={postDate(post)} />
+                        </span>
+                        {post.data.draft && <em>draft&nbsp;</em>}
+                        <a href={getPostUrl(post)}>{post.data.title}</a>
+                    </li>
+                ))}
+            </ul>
+            {showTags && tags.length > 0 && (
+                <div class="tags">
+                    {tags.map((tag) => (
+                        <a class="tag" href={tagPath(tag)} rel="nofollow">
+                            #{tag}
+                        </a>
+                    ))}
+                </div>
+            )}
+        </>
+    ) : (
+        <p>No posts yet.</p>
+    )
+}
