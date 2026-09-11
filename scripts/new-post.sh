@@ -1,7 +1,7 @@
 #!/usr/bin/env bash
 set -euo pipefail
 
-POSTS_DIR="${POSTS_DIR:-src/content/blog}"
+POSTS_DIR="${POSTS_DIR:-src/content/blog/draft}"
 
 read -rp "File name (no extension): " filename
 read -rp "Title: " title

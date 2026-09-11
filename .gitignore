@@ -1,5 +1,5 @@
-# macOS-specific files
-.DS_Store
+# This project
+src/content/blog/drafts/
 
 # build output
 dist/
