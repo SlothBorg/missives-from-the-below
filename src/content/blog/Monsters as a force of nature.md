@@ -9,7 +9,7 @@ tags:
 - 'theory'
 ---
 
-## Setting the Stage, in which I ramble a bit.
+## Setting the Stage, in Which I Ramble a Bit.
 
 The other night I fell down the rabbit hole of blogs, starting with [Zedeck Siew's DECOLONISING D&D](https://slowlorispress.com/post/742000720927227904/decolonising-dd) which led me to [Throne of Salt's D&D Doesn't Understand What Monsters Are](https://throneofsalt.blogspot.com/2020/08/d-doesnt-understand-what-monsters-are.html) which led me to [Goblin Punch's Ghosts](https://goblinpunch.blogspot.com/2019/10/ghosts.html).
 

@@ -17,6 +17,6 @@ Mimics have been found outside of [**The Below**](https://blog.slothborg.com/tag
 
 ### Gamifying Lore
 
-* Adventures caught smuggling mimics up from **The Below** have their Guild Charter revoked and face heavy fines and/or imprisonment.
+* Adventures caught smuggling mimics up from [**The Below**](https://blog.slothborg.com/tags/The%20Below/) have their Guild Charter revoked and face heavy fines and/or imprisonment.
 * The secretions of a mimic are both highly acidic, and highly adhesive making them a valued ingredient for artisans and alchemists in [**The City**](https://blog.slothborg.com/tags/The%20City/)
 * The shadow a mimic casts always reveals its true and hideous form.

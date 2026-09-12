@@ -2,7 +2,7 @@
 title: 'Appendix N'
 description: A non-exhaustive list of media that has influenced me.
 pubDate: 2026-09-01
-updatedDate: 2026-09-04
+updatedDate: 2026-09-09
 tags: 
 - 'misc'
 ---
@@ -24,6 +24,11 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [The Powder Mage Trilogy](https://en.wikipedia.org/wiki/The_Powder_Mage_trilogy)
 * [The Black Magician Trilogy](https://en.wikipedia.org/wiki/Trudi_Canavan#Kyralia_series) by Trudi Canavan
 * [His Dark Materials](https://en.wikipedia.org/wiki/His_Dark_Materials)
+* [The Left Hand of Darkness](https://en.wikipedia.org/wiki/The_Left_Hand_of_Darkness)
+* [Beowulf](https://en.wikipedia.org/wiki/Beowulf)
+* [The Prism Pentad](https://darksun.fandom.com/wiki/Prism_Pentad)
+  * Specifically [The Verdant Passage](https://en.wikipedia.org/wiki/The_Verdant_Passage) as an example of a party with mixed alignments and motivations.
+
 
 ## Movies
 
@@ -32,6 +37,7 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [The Goonies](https://en.wikipedia.org/wiki/The_Goonies)
 * [Raiders of the Lost Ark](https://en.wikipedia.org/wiki/Raiders_of_the_Lost_Ark)
 * [The Black Cauldron (film)](https://en.wikipedia.org/wiki/The_Black_Cauldron_(film))
+* [The Spine of Night](https://en.wikipedia.org/wiki/The_Spine_of_Night)
 
 ## TV Shows
 
@@ -107,12 +113,17 @@ Just so many.
 
 ## Boardgames
 
+* HeroQuest
+  * My older brother had a copy when I was young, and I have fond memories of trying to play it with my younger brother in the basement of our then house.
 * [Oath](https://buriedgiant.shop/products/oath)
+* [Root](https://ledergames.com/products/root-a-game-of-woodland-might-and-right)
 * War of Whispers
 * Clank!
 * Betrayal at House on the Hill
-* HeroQuest
-  * My older brother had a copy when I was young, and I have fond memories of trying to play it with my younger brother in the basement of our then house.
+* [Paupers' Ladder](https://www.bedsitgames.co.uk/blank)
+* [Star Wars: Outer Rim](https://www.fantasyflightgames.com/en/products/star-wars-outer-rim/)
+* [Star Wars: Rebellion](https://www.fantasyflightgames.com/en/products/star-wars-rebellion/)
+* [Spirit Island](https://shop.greaterthangames.com/products/spirit-island)
 
 ## Skirmish and Wargames
 

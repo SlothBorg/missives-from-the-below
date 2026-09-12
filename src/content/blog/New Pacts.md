@@ -48,8 +48,8 @@ Of these some are immediately interesting, again in the meaning of presenting pa
 * Abstinence could be depending on from what? If you have two Magic of Talents, abstaining from one would be quite the choice. 
 * Nonviolence, the players are adventures, while not all situations can or should be resolved with violence, having to step back when the swords comes out is going to led to some interesting party dynamics.
   * Same can be said about a Vow of Peace.
-* Obedience could work depending on to who or what you are obedient, my mind immediately goes to one of the many spirits of **The Below**. 
-* Poverty, now this is perhaps the best! The whole reason you're down in **The Below** is to gain wealth after all, right? Even if you're foolish enough to venture down without gold in mind, many activities in **The City** require coin.
+* Obedience could work depending on to who or what you are obedient, my mind immediately goes to one of the many spirits of [**The Below**](https://blog.slothborg.com/tags/The%20Below/) . 
+* Poverty, now this is perhaps the best! The whole reason you're down in [**The Below**](https://blog.slothborg.com/tags/The%20Below/)  is to gain wealth after all, right? Even if you're foolish enough to venture down without gold in mind, many activities [**The City**](https://blog.slothborg.com/tags/The%20City/)  require coin.
 
 ## Putting it all together:
 
@@ -63,7 +63,7 @@ You must make a daily offering to a spirit or deity, it can be:
 * Offering of alcohol
   * 1 bottle of something passable, none of this cheap adventurer swill!
 * Offering of something delicate
-  * Flowers, ornate paper cranes, etc. **The Below** isn't kind to delicate things.
+  * Flowers, ornate paper cranes, etc. [**The Below**](https://blog.slothborg.com/tags/The%20Below/) isn't kind to delicate things.
 
 #### 2. Cannot bathe
 You can not bathe, you **can not** spread the charges used to cure a stage, of an affliction related to disease or infection, over multiple camp phases.
