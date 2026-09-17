@@ -22,5 +22,8 @@ sed -i 's/^draft: true$/draft: false/' "$f"
 today=$(date +%F)
 sed -i "s/^updatedDate: .*$/updatedDate: $today/" "$f"
 
+# Fix file paths
+sed -i 's|](\.\./\.\./\.\./assets/blog/|](../../assets/blog/|g' "$f"
+
 mv "$f" ../
 echo "Published: $f -> $(cd .. && pwd)/$f"
