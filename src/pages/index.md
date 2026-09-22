@@ -4,21 +4,6 @@ title: Astro ʕ•ᴥ•ʔ Bear Blog
 description: A small, plain blog built with Astro.
 ---
 
-## About
+## I'm ~~flying the plane while building it~~ digging this dungeon as I explore it!
 
-A simple blog for my thoughts, ideas, ramblings, and hacks.
-
-### Technical Details
-
-Built using
-
-* [Astro](https://astro.build/blog/)
-* Using the [Astro Bear Blog](https://github.com/harleyjwilson/astro-bearblog/tree/main) theme
-  * Inspired by the excellent [Bear Blog](https://bearblog.dev/)
-* Deployed using [GitHub Pages](https://docs.github.com/en/pages)
-
-View the [repo here](https://github.com/SlothBorg/missives-from-the-below)
-
-### ToDo
-
-[] Add a spoiler tag component
+Herein are my notes, ideas, and mad ramblings about dungeons, the world of my home game(s), and my adventures in RPG design. The latter is focused around a hack of [His Majesty the Worm](https://www.hismajestytheworm.games/).
