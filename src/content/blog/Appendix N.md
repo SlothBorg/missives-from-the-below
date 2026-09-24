@@ -50,17 +50,23 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [Darkest Dungeon](https://en.wikipedia.org/wiki/Darkest_Dungeon)
 * [Morrowind](https://en.wikipedia.org/wiki/The_Elder_Scrolls_III:_Morrowind)
 * Diablo
-* The original Baldur's Gate games:
-  * [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
-    * [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
-  * [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
-    * [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
+* [Baldur's Gate](https://en.wikipedia.org/wiki/Baldur%27s_Gate_(video_game))
+  * [Baldur's Gate: Tales of the Sword Coast](https://en.wikipedia.org/wiki/Baldur%27s_Gate:_Tales_of_the_Sword_Coast)
+* [Baldur's Gate II: Shadows of Amn](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Shadows_of_Amn)
+  * [Baldur's Gate II: Throne of Bhaal](https://en.wikipedia.org/wiki/Baldur%27s_Gate_II:_Throne_of_Bhaal)
 * [Dungeons of Dreadrock](https://en.wikipedia.org/wiki/Dungeons_of_Dreadrock)
 * Red Faction: Guerrilla
 * [Thief: The Dark Project](https://en.wikipedia.org/wiki/Thief:_The_Dark_Project) && [Thief II: The Metal Age](https://en.wikipedia.org/wiki/Thief_II) I was never good at them when I first played them.
 * Planescape: Torment
 * [Dark Souls](https://en.wikipedia.org/wiki/Dark_Souls) & [Elden Ring](https://en.wikipedia.org/wiki/Elden_Ring), still not good at these games, possibly worse now. However, I love the concept and ideas, and wish I were better at them, to play and enjoy the worlds and challenge of them.
 * [Signs of the Sojourner](https://en.wikipedia.org/wiki/Signs_of_the_Sojourner), the way it handles conversations and social interactions is so compelling! I keep thinking about how to use it in an RPG.
+
+## Music
+
+* [Ayreon](https://www.arjenlucassen.com/content/arjens-projects/ayreon/)
+  * [Into the Electric Castle](https://en.wikipedia.org/wiki/Into_the_Electric_Castle) - Strangers forced into a strange world to survive.
+* [Goblins' Song by Spellblast](https://www.youtube.com/watch?v=tzRr5CsF_78)
+* [Rainbow Demon by Uriah Heep](https://www.youtube.com/watch?v=iR0MJCGX0-8)
 
 ## Roleplaying Games
 
