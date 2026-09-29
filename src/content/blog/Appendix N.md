@@ -28,7 +28,11 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 * [Beowulf](https://en.wikipedia.org/wiki/Beowulf)
 * [The Prism Pentad](https://darksun.fandom.com/wiki/Prism_Pentad)
   * Specifically [The Verdant Passage](https://en.wikipedia.org/wiki/The_Verdant_Passage) as an example of a party with mixed alignments and motivations.
+* [American Gods]
 
+## Graphic Novels
+
+* [Sandman] - in junior and senior year of high school I wrote some stories that were heavily inspired by sandman and Ayreon's Into the Electric Castle. They are now, lost to time. 
 
 ## Movies
 
