@@ -3,6 +3,7 @@ title: 'The first RPG I played'
 description: Recalling the first RPG I played.
 pubDate: 2026-09-02
 updatedDate: 2026-09-02
+draft: false
 tags: 
 - 'RPGs'
 - 'memories'

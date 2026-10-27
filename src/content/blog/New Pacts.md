@@ -3,6 +3,7 @@ title: 'New Pacts'
 description: Scavanging ideas and mechanics from 3rd ed D&D for Sorcerous Pacts.
 pubDate: 2026-09-01
 updatedDate: 2026-09-01
+draft: false
 tags: 
 - 'His Majesty the Worm'
 - 'game design'

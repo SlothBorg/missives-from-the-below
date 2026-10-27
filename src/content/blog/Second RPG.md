@@ -3,6 +3,7 @@ title: 'The second RPG I played'
 description: Recalling the second RPG I played.
 pubDate: 2026-10-11
 updatedDate: 2026-10-11
+draft: false
 tags: 
 - 'RPGs'
 - 'memories'

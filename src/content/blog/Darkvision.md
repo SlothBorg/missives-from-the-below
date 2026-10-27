@@ -3,6 +3,7 @@ title: 'Darkvision'
 description: Some musings on darkvision or the lack there of in His Majesty the Worm
 pubDate: 2026-09-01
 updatedDate: 2026-09-01
+draft: false
 tags: 
 - 'His Majesty the Worm'
 - 'game design'

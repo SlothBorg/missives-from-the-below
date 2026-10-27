@@ -3,6 +3,7 @@ title: 'Making Magic feel Magical - part 1'
 description: Mechanics for making Magic *feel* Magical!
 pubDate: 2026-09-07
 updatedDate: 2026-09-07
+draft: false
 tags:
 - 'magic'
 - 'His Majesty the Worm'

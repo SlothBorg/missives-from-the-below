@@ -3,6 +3,7 @@ title: 'Mimics'
 description: Notes & Lore about Mimics
 pubDate: 2026-09-01
 updatedDate: 2026-09-01
+draft: false
 tags: 
 - 'lore'
 - 'monster design'
