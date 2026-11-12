@@ -4,6 +4,20 @@ title: Astro ʕ•ᴥ•ʔ Bear Blog
 description: A small, plain blog built with Astro.
 ---
 
-## I'm ~~flying the plane while building it~~ digging this dungeon as I explore it!
+## Digging this dungeon as I explore it!
 
-Herein are my notes, ideas, and mad ramblings about dungeons, the world of my home game(s), and my adventures in RPG design. The latter is focused around a hack of [His Majesty the Worm](https://www.hismajestytheworm.games/).
+Herein are my notes, ideas, and mad ramblings about dungeons, the world of my home game(s), and RPG design. The latter is *currently mainly* focused around a hack of [His Majesty the Worm](https://www.hismajestytheworm.games/).
+
+### Setting Design Constraints
+
+* No inventing new words.
+  * Names of People are fine.
+  * Places is iffy, prefer generic or diadactic names e.g. Istanbul mean the city, or in the city refering to Constantinople.
+* The large areas are **The City**, **The Below**, **The Province**, **The Wild**, **The Waste**, and **The Above**
+
+### System Design Constraints 
+
+* Uses a tarot deck.
+* Worldbuilding through tables, and the names of items, spells, abilities, etc.
+* Character sheet should be minimal, it does not hold the answers.
+* Diffrent archetypes should feel diffrent!
