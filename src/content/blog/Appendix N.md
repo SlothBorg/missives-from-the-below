@@ -5,7 +5,7 @@ pubDate: 2026-09-01
 updatedDate: 2026-09-09
 draft: false
 tags: 
-- 'misc'
+- 'thoughts'
 ---
 
 For those who have stumbled upon this blog without being familiar with the concept. [Appendix N](https://en.wikipedia.org/wiki/Appendix_N) organically appeared in the Advanced Dungeons & Dragons Dungeon Master's Guide, and was a list of books and authors that influenced the creators of Dungeons & Dragons. 

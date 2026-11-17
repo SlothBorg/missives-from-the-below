@@ -5,7 +5,7 @@ pubDate: 2026-09-17
 updatedDate: 2026-09-17
 draft: false
 tags:
-- 'game design'
+- 'system'
 - 'The Below'
 ---
 

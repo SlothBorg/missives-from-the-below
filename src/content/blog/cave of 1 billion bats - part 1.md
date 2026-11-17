@@ -5,6 +5,7 @@ pubDate: 2026-09-04
 updatedDate: 2026-09-05
 draft: false
 tags: 
+- 'thoughts'
 - 'review'
 - 'games'
 - 'adventures'

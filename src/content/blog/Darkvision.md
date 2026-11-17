@@ -5,8 +5,8 @@ pubDate: 2026-09-01
 updatedDate: 2026-09-01
 draft: false
 tags: 
+- 'system'
 - 'His Majesty the Worm'
-- 'game design'
 ---
 
 ## Intro

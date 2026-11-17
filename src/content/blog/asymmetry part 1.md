@@ -5,8 +5,7 @@ pubDate: 2026-09-14
 updatedDate: 2026-09-15
 draft: false
 tags:
-- 'game design'
-- 'ideas'
+- 'system'
 - 'asymmetry'
 ---
 

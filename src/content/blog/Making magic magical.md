@@ -5,11 +5,8 @@ pubDate: 2026-09-07
 updatedDate: 2026-09-07
 draft: false
 tags:
+- 'system'
 - 'magic'
-- 'His Majesty the Worm'
-- 'game design'
-- 'lore'
-- 'The City'
 ---
 
 ## Where It Started 

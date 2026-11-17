@@ -5,8 +5,8 @@ pubDate: 2026-09-01
 updatedDate: 2026-09-01
 draft: false
 tags: 
+- 'system'
 - 'His Majesty the Worm'
-- 'game design'
 ---
 
 In the D&D 3.5 book *Complete Arcane* introduced the Wu Jen class to 3rd edition. It had appeared as subclass option in 1st edition's, *Oriental Adventures* and as a class in 2nd edition introduced in Dragon magazine 229, updating the class from the prior edition. 

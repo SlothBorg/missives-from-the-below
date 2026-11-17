@@ -5,8 +5,8 @@ pubDate: 2026-10-26
 updatedDate: 2026-10-26
 draft: false
 tags:
+- 'system'
 - 'magic'
-- 'game design'
 - 'asymmetry'
 ---
 

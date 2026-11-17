@@ -4,7 +4,8 @@ description: A list of fun RPG related tidbits I've picked up.
 pubDate: 2026-09-01
 updatedDate: 2026-09-01
 draft: false
-tags: 
+tags:
+- 'thoughts' 
 - 'facts'
 ---
 
