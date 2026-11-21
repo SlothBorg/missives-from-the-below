@@ -9,7 +9,7 @@ read -rp "Description: " description
 
 [ -n "$filename" ] || { echo "File name is required." >&2; exit 1; }
 
-file="$POSTS_DIR/$filename.md"
+file="$POSTS_DIR/${filename,,}.md"
 [ -e "$file" ] && { echo "$file already exists." >&2; exit 1; }
 
 mkdir -p "$POSTS_DIR"
