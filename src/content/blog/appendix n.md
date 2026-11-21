@@ -35,7 +35,10 @@ Some day I hope to write at least a paragraph about each item explaining how it'
 
 ## Graphic Novels
 
-* [Sandman] - in junior and senior year of high school I wrote some stories that were heavily inspired by sandman and Ayreon's Into the Electric Castle. They are now, lost to time. 
+* Sandman
+  * In junior and senior year of high school I wrote some stories that were heavily inspired by sandman and Ayreon's Into the Electric Castle. They are now, lost to time. 
+* [John Constantine, Hellblazer](https://en.wikipedia.org/wiki/Hellblazer)
+  * Specifically [Original Sins](https://hellblazer.fandom.com/wiki/Original_Sins), [Rare Cuts](https://hellblazer.fandom.com/wiki/Rare_Cuts) and [Red Sepulchre](https://hellblazer.fandom.com/wiki/Red_Sepulchre) 
 
 ## Movies
 
