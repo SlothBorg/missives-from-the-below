@@ -5,9 +5,8 @@ pubDate: 2026-09-23
 updatedDate: 2026-11-12
 draft: false
 tags:
+- 'setting'
 - 'The Bwlow'
-- 'worldbuilding'
-- 'microblog'
 ---
 
 There are no vast councils of Dragons, no mated pair guarding their nest of eggs in the desert.

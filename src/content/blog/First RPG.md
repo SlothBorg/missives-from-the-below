@@ -5,8 +5,7 @@ pubDate: 2026-09-02
 updatedDate: 2026-09-02
 draft: false
 tags: 
-- 'RPGs'
-- 'memories'
+- 'thoughts'
 ---
 
 ### The Memory

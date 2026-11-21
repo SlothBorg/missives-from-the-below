@@ -5,9 +5,8 @@ pubDate: 2026-09-01
 updatedDate: 2026-09-01
 draft: false
 tags: 
-- 'lore'
-- 'monster design'
-- 'The Below'
+- 'setting'
+- 'monsters'
 ---
 
 ## On the Subject of Mimics

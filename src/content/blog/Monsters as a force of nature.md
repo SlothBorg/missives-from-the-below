@@ -5,9 +5,7 @@ pubDate: 2026-09-01
 updatedDate: 2026-09-01
 draft: false
 tags: 
-- 'His Majesty the Worm'
-- 'monster design'
-- 'theory'
+- 'thoughts'
 ---
 
 ## Setting the Stage, in Which I Ramble a Bit.

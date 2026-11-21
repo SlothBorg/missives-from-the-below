@@ -5,7 +5,7 @@ pubDate: 2026-09-22
 updatedDate: 2026-09-22
 draft: false
 tags:
-- 'microblog'
+- 'thoughts'
 - 'boardgames'
 - 'play styles'
 ---
